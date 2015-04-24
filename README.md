@@ -1,2 +1,12 @@
 # HelloWorld
-HelloWorldProgram
+package com.tech.helloworld;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+
+	}
+
+}
+
